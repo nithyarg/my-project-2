@@ -60,7 +60,7 @@ regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900it
   .content{
     width: 80%;
     position: absolute;
-    top: 55%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     display: flex;
@@ -70,7 +70,7 @@ regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900it
   }
 .title{
   flex: 0 0 100%;
-  font-size: 200px;
+  font-size: 150px;
   text-transform: uppercase;
   font-weight: 700;
   text-align: center;
